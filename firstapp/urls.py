@@ -8,5 +8,4 @@ urlpatterns = [
     path('view-loans/<int:customer_id>', ViewLoanDetailsByCustomerIdView.as_view()),
     path('create-loan', CreateLoanView.as_view()),
     
-    
  ]
