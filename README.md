@@ -8,9 +8,9 @@ Brief overview of the project and its purpose.
 
 ### Prerequisites
 
-- Python (version X.X.X)
-- Django (version X.X.X)
-- PostgreSQL (version X.X.X)
+- Python (version 3.9.12)
+- Django (version 4.2.10)
+- PostgreSQL (version 15.6)
 
 ### Installation
 
